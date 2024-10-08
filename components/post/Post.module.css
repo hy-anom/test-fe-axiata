@@ -1,0 +1,24 @@
+.post {
+  background-color: #292C3C;
+  padding: 12px;
+
+  .title {
+    font-weight: bold;
+    font-size: 22px;
+    color: #e5c890;
+  }
+
+  .author {
+    color: #a6d189;
+  }
+
+  .subheader {
+    color: #737994;
+    margin-bottom: 12px;
+  }
+
+  .footer {
+    color: #737994;
+    margin-top: 12px;
+  }
+}

@@ -1,0 +1,20 @@
+[
+  {
+    "title": "Which Halloween movies do you watch every year?",
+    "author": "Anom",
+    "preview":
+      "I have a penchant for enjoying classic, slightly unconventional films during the Halloween season. Some of my go-to favorites include the cult classic",
+    "content": "I have a penchant for enjoying classic, slightly unconventional films during the Halloween season. Some of my go-to favorites include the cult classic 'Rocky Horror Picture Show,' the charmingly spooky Hocus Pocus, and the atmospheric old Halloween movie. These films offer a perfect blend of nostalgia and entertainment for me. While I'm not particularly drawn to excessively violent content, I appreciate the imaginative storytelling and unique characters that these movies bring to the screen. They provide a welcomed escape into a world of fantasy and magic, making them the ideal choices for a cozy night in during the Halloween season.",
+    "date": "new Date('2024-10-01')",
+    "comments": "12"
+  },
+  {
+    "title": "Sequels to movies you think would or should happen?",
+    "author": "Anom",
+    "preview":
+      "So, since we got an unneeded sequel to Joker and an unexpected one to Gladiator, do you think this will start an age of unprecedented sequels to movies ",
+    "content": "So, since we got an unneeded sequel to Joker and an unexpected one to Gladiator, do you think this will start an age of unprecedented sequels to movies we thought were one offs or franchises we thought would never get another entry? It can be movies you really want to see a sequel to, movies you thought would never get a sequel, or movies you think are better off without a sequel. It would be nice if you described what the sequel's story would be about.",
+    "date": "new Date('2024-10-04')",
+    "comments": "3"
+  }
+]

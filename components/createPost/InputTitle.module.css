@@ -1,0 +1,12 @@
+.inputTitle {
+  color: #0A0A0A;
+  background-color: #949cbb;
+  padding: 6px;
+  width: 300px;
+  margin-bottom: 6px;
+}
+
+.inputTitle::placeholder {
+  color: #51576d;
+  opacity: 1;
+}
